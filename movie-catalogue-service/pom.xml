@@ -14,7 +14,7 @@
 	<name>movie-catalogue-service</name>
 	<description>Microservices Basic level</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>12</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
